@@ -20,12 +20,4 @@ This version of the grabber only supports **Windows**.
 
 <br>
 
-# Author
-- **wodx**
-    - [Github](https://github.com/WodXTV)
-    - [Twitter](https://twitter.com/wodxgod)
-    - [Discord](https://discord.gg/BYjPFTs)
-    - [PayPal.me](https://www.paypal.com/paypalme2/wodx)
 
-# Donate
-You can donate to my PayPal at https://www.paypal.com/paypalme2/wodx <3
